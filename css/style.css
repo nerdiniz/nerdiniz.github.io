@@ -39,8 +39,7 @@
 }
 
 .list-contact a{
-    text-decoration: none;
-    color: inherit;
+    text-decoration: none;    color: inherit;
     
 }
 .list-contact a:hover{
