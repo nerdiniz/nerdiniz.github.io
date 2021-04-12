@@ -1,0 +1,23 @@
+#content{background-color: white;}
+.root{
+    background-color: #0a58ca;
+}
+
+.img-head{
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+}
+
+.content-head{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.frases{
+    color: white;
+}
+
+.frases-lead-head{
+    color:black;
+}
