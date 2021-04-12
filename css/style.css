@@ -21,3 +21,28 @@
 .frases-lead-head{
     color:black;
 }
+
+.title-experience{
+    margin-top: 15px;
+}
+
+
+.list-contact{
+    list-style:none;
+}
+.list-contact a li{
+    display: inline;
+    list-style-type: none;
+    padding-right: 20px;
+    float: left;
+    font-size: 25px;
+}
+
+.list-contact a{
+    text-decoration: none;
+    color: inherit;
+    
+}
+.list-contact a:hover{
+    color:  #0a58ca;
+}
